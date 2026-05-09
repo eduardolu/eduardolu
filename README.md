@@ -83,13 +83,27 @@ Aprendiendo, construyendo y mejorando cada repo con mentalidad de terminal.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardolu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00111A&title_color=00EAFF&icon_color=00FF9C&text_color=E6F7FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolu&layout=compact&theme=tokyonight&hide_border=true&bg_color=00111A&title_color=00EAFF&text_color=E6F7FF)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=eduardolu&theme=transparent&hide_border=true&background=00111A&ring=00EAFF&fire=00FF9C&currStreakLabel=00EAFF&sideLabels=00FF9C&dates=E6F7FF&currStreakNum=E6F7FF&sideNums=E6F7FF)
 
 </div>
+
+```txt
+┌─ public repo scan ──────────────────────────────────────────┐
+│ repos: 26                                                   │
+│ main stack: JavaScript, React, Vue, TypeScript, Next.js      │
+│ foundations: HTML, CSS, C, Java, Git, Linux                 │
+│ active labs: Heroes-SPA, miCV, notaAPP, meteo               │
+└─────────────────────────────────────────────────────────────┘
+```
+
+```txt
+JavaScript  █████████  9 repos
+Java        ██████     6 repos
+TypeScript  ██         2 repos
+CSS         █          1 repo
+Vue         █          1 repo
+C           █          1 repo
+```
 
 ---
 
