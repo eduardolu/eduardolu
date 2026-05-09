@@ -83,7 +83,11 @@ Aprendiendo, construyendo y mejorando cada repo con mentalidad de terminal.
 
 <div align="center">
 
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardolu&theme=github_dark)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=eduardolu&theme=transparent&hide_border=true&background=00111A&ring=00EAFF&fire=00FF9C&currStreakLabel=00EAFF&sideLabels=00FF9C&dates=E6F7FF&currStreakNum=E6F7FF&sideNums=E6F7FF)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardolu&bg_color=00111A&color=E6F7FF&line=00EAFF&point=00FF9C&area=true&hide_border=true)
 
 </div>
 
