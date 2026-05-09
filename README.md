@@ -98,14 +98,22 @@ Aprendiendo, construyendo y mejorando cada repo con mentalidad de terminal.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardolu&bg_color=00111A&color=E6F7FF&line=00EAFF&point=00FF9C&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-```txt
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <pre>
 ┌─ public repo scan ──────────────────────────────────────────┐
 │ repos: 26                                                   │
 │ main stack: JavaScript, React, Vue, TypeScript, Next.js      │
 │ foundations: HTML, CSS, C, Swift, Java, Git, Linux          │
 │ active labs: Heroes-SPA, miCV, notaAPP, meteo               │
 └─────────────────────────────────────────────────────────────┘
-```
+        </pre>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ```txt
 JavaScript  █████████  9 repos
@@ -135,12 +143,16 @@ Swift       █          detected in challenge repo
 
 ```bash
 github="https://github.com/eduardolu"
+linkedin="https://www.linkedin.com/in/edulu/"
+website="https://eduardolu.com"
 mode="open to collaborate, learn and build"
 ```
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-eduardolu-00111A?style=for-the-badge&logo=github&logoColor=00EAFF)](https://github.com/eduardolu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-edulu-00111A?style=for-the-badge&logo=linkedin&logoColor=00EAFF)](https://www.linkedin.com/in/edulu/)
+[![Website](https://img.shields.io/badge/Web-eduardolu.com-00111A?style=for-the-badge&logo=googlechrome&logoColor=00FF9C)](https://eduardolu.com)
 
 </div>
 
