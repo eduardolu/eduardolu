@@ -81,14 +81,19 @@ Aprendiendo, construyendo y mejorando cada repo con mentalidad de terminal.
 
 ## ./github_stats
 
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardolu&theme=github_dark" alt="Most Commit Language" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=eduardolu&theme=transparent&hide_border=true&background=00111A&ring=00EAFF&fire=00FF9C&currStreakLabel=00EAFF&sideLabels=00FF9C&dates=E6F7FF&currStreakNum=E6F7FF&sideNums=E6F7FF" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardolu&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=eduardolu&theme=transparent&hide_border=true&background=00111A&ring=00EAFF&fire=00FF9C&currStreakLabel=00EAFF&sideLabels=00FF9C&dates=E6F7FF&currStreakNum=E6F7FF&sideNums=E6F7FF)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardolu&bg_color=00111A&color=E6F7FF&line=00EAFF&point=00FF9C&area=true&hide_border=true)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardolu&bg_color=00111A&color=E6F7FF&line=00EAFF&point=00FF9C&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ```txt
