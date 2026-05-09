@@ -84,7 +84,7 @@ Aprendiendo, construyendo y mejorando cada repo con mentalidad de terminal.
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardolu&theme=github_dark" alt="Most Commit Language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardolu&theme=github_dark" alt="Repos Per Language" />
     </td>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com?user=eduardolu&theme=transparent&hide_border=true&background=00111A&ring=00EAFF&fire=00FF9C&currStreakLabel=00EAFF&sideLabels=00FF9C&dates=E6F7FF&currStreakNum=E6F7FF&sideNums=E6F7FF" alt="GitHub Streak" />
