@@ -35,6 +35,7 @@ Aprendiendo, construyendo y mejorando cada repo con mentalidad de terminal.
 ![HTML5](https://img.shields.io/badge/HTML5-00111A?style=for-the-badge&logo=html5&logoColor=00FF9C)
 ![CSS3](https://img.shields.io/badge/CSS3-00111A?style=for-the-badge&logo=css3&logoColor=00EAFF)
 ![C](https://img.shields.io/badge/C-00111A?style=for-the-badge&logo=c&logoColor=00FF9C)
+![Swift](https://img.shields.io/badge/Swift-00111A?style=for-the-badge&logo=swift&logoColor=00EAFF)
 ![Java](https://img.shields.io/badge/Java-00111A?style=for-the-badge&logo=openjdk&logoColor=00EAFF)
 ![Bash](https://img.shields.io/badge/Bash-00111A?style=for-the-badge&logo=gnubash&logoColor=00FF9C)
 
@@ -47,7 +48,7 @@ Aprendiendo, construyendo y mejorando cada repo con mentalidad de terminal.
 │ 03. Vue interfaces and component thinking                    │
 │ 04. TypeScript and Next.js projects                          │
 │ 05. HTML, CSS and responsive UI                              │
-│ 06. C, Java, Git and terminal workflow                       │
+│ 06. C, Swift, Java, Git and terminal workflow                │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -74,6 +75,7 @@ Aprendiendo, construyendo y mejorando cada repo con mentalidad de terminal.
 [OK] Next.js + TypeScript     -> next-pokemon
 [OK] CSS profile/web work     -> miCV
 [OK] C fundamentals           -> libft
+[OK] Swift practice           -> Weekly-Challenge-2022-Swift
 [OK] Java legacy projects     -> Teleasistencia, ISST, Centro-Procesamiento
 ```
 
@@ -100,7 +102,7 @@ Aprendiendo, construyendo y mejorando cada repo con mentalidad de terminal.
 ┌─ public repo scan ──────────────────────────────────────────┐
 │ repos: 26                                                   │
 │ main stack: JavaScript, React, Vue, TypeScript, Next.js      │
-│ foundations: HTML, CSS, C, Java, Git, Linux                 │
+│ foundations: HTML, CSS, C, Swift, Java, Git, Linux          │
 │ active labs: Heroes-SPA, miCV, notaAPP, meteo               │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -112,6 +114,7 @@ TypeScript  ██         2 repos
 CSS         █          1 repo
 Vue         █          1 repo
 C           █          1 repo
+Swift       █          detected in challenge repo
 ```
 
 ---
